@@ -17,7 +17,7 @@
  * το χρώμα της κάθε λεζάντας στο _PageRank_.
 
 
-![alt text](https://nextcloud-barlas.zapto.org:496/remote.php/webdav/Ergasia/Evolution_Preview.png)
+![alt text](https://drive.google.com/open?id=1STvhndAQBBrXV4y64edhVlTJEr86fdsB)
 
 _Εικόνα 1_: Γράφος δικτύου χρηστών του θέματος _Evolution_.
 
