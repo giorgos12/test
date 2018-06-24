@@ -16,18 +16,16 @@
  * το μέγεθος της κάθε λεζάντας κάθε κόμβου στο _Betweeness Centrality_ και 
  * το χρώμα της κάθε λεζάντας στο _PageRank_.
 
-
-![alt text](https://drive.google.com/file/d/1STvhndAQBBrXV4y64edhVlTJEr86fdsB/view?usp=sharing)
+![evolution_preview](https://user-images.githubusercontent.com/30008402/41817060-49ca8eaa-779c-11e8-96f2-31c1b7047fde.png)
 
 _Εικόνα 1_: Γράφος δικτύου χρηστών του θέματος _Evolution_.
 
 
-![alt text](png/GayMarriage_Preview.png)
+![gaymarriage_preview](https://user-images.githubusercontent.com/30008402/41817071-769153ba-779c-11e8-9ca8-86685c324137.png)
 
 _Εικόνα 2_: Γράφος δικτύου χρηστών του θέματος _GayMarriage_.
 
-
-![alt text](png/GlobalWarming_Preview.png)
+![globalwarming_preview](https://user-images.githubusercontent.com/30008402/41817072-7906a0c8-779c-11e8-9410-e4fb1fca7443.png)
 
 _Εικόνα 3_: Γράφος δικτύου χρηστών του θέματος _GlobalWarming_.
 
@@ -54,12 +52,12 @@ H διαδικασία της _Εικόνας 4_ είναι η κύρια και
 
 
 
-![alt text](png/Process.png)
+![process](https://user-images.githubusercontent.com/30008402/41817081-8de48b0e-779c-11e8-9c2b-4485d77762e7.png)
 
 _Εικόνα 4_: Η κύρια διαδικασία για τη δημιουργία της λίστα των _3-grams_.
 
 
-![alt text](png/Process%20document%20from%20data.png)
+![process document from data](https://user-images.githubusercontent.com/30008402/41817083-901d0612-779c-11e8-9736-ef2fac9cebcf.png)
 
 _Εικόνα 5_: Η διαδικασία της επεξεργασίας του κάθε post, για τη δημιουργία της λίστα των _3-grams_.
 
@@ -80,12 +78,13 @@ _Gephi_ εμφάνιζε σφάλμα κατά τη φόρτωση του αρχ
 
 Λόγο του μεγάλου πλήθους κόμβων και ακμών ήταν ανέφυκτη η επεξεργασια της διάταξης.
 
-![alt text](png/GayMarriage_Preview_b.png)
+
+![gaymarriage_preview_b](https://user-images.githubusercontent.com/30008402/41817084-a2ea1fe6-779c-11e8-8d74-b4a7356a0b2b.png)
 
 _Εικόνα 6_: Γράφος δικτύου λέξεων του θέματος _GayMarriage_.
 
 
-![alt text](png/GlobalWarming_Preview_b.png)
+![globalwarming_preview_b](https://user-images.githubusercontent.com/30008402/41817086-a8128f6c-779c-11e8-938c-5f69cbb4e320.png)
 
 _Εικόνα 7_: Γράφος δικτύου λέξεων του θέματος _GlobalWarming_.
 
